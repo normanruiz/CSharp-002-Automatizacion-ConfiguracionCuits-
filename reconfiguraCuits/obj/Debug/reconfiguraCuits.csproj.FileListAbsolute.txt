@@ -1,0 +1,7 @@
+C:\Users\Norman Ruiz\source\repos\reconfiguraCuits\reconfiguraCuits\bin\Debug\reconfiguraCuits.exe.config
+C:\Users\Norman Ruiz\source\repos\reconfiguraCuits\reconfiguraCuits\bin\Debug\reconfiguraCuits.exe
+C:\Users\Norman Ruiz\source\repos\reconfiguraCuits\reconfiguraCuits\bin\Debug\reconfiguraCuits.pdb
+C:\Users\Norman Ruiz\source\repos\reconfiguraCuits\reconfiguraCuits\obj\Debug\reconfiguraCuits.csprojAssemblyReference.cache
+C:\Users\Norman Ruiz\source\repos\reconfiguraCuits\reconfiguraCuits\obj\Debug\reconfiguraCuits.csproj.CoreCompileInputs.cache
+C:\Users\Norman Ruiz\source\repos\reconfiguraCuits\reconfiguraCuits\obj\Debug\reconfiguraCuits.exe
+C:\Users\Norman Ruiz\source\repos\reconfiguraCuits\reconfiguraCuits\obj\Debug\reconfiguraCuits.pdb

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+    <configuraciones>
+        <configuracion value="rutaScripts">
+            <parametro value="C:\imatch\scripts\"/> 
+        </configuracion>
+        <configuracion value="rutaCuits">
+            <parametro value="C:\imatch\sftp\"/>
+        </configuracion>
+        <configuracion value="rutaTR">
+            <parametro value="C:\imatch\configuracion\"/>
+        </configuracion>
+        <configuracion value="token">
+            <parametro value=""/>
+        </configuracion>
+        <configuracion value="canalSlack">
+            <parametro value=""/>
+        </configuracion>
+        <configuracion value="servicio">
+            <parametro value=""/>
+        </configuracion>
+    </configuraciones>
